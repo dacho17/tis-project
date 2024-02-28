@@ -10,7 +10,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
 @Configuration
 @OpenAPIDefinition(
   info =@Info(
-    title = "QrCode API",
+    title = "PopProduct API",
     version = "${api.version}",
     contact = @Contact(
       name = "David", email = "david@tis.com", url = ""
